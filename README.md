@@ -16,9 +16,29 @@
 ---
 
 ## 🛠️ Tech Stack
-| Languages        | Frameworks & Tools               | Databases          |
-|-----------------|---------------------------------|------------------|
-| PHP, Python, HTML, JS | Laravel, Node.js, Streamlit, WordPress/Elementor, Bootstrap | MySQL, PostgreSQL |
+
+💻 **Languages:**  
+![PHP](https://img.shields.io/badge/PHP-blue?style=flat&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+⚙️ **Frameworks & Tools:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+🗄️ **Databases:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+🔧 **Dev Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 **Other Skills:** System Deployment, Networking, ICT Support, Social Media Strategy  
 
