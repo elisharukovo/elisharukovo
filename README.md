@@ -1,6 +1,6 @@
 # Elisha Rukovo
 
-Information Systems graduate building full-stack web applications and real-world software products in Zimbabwe.
+Full-stack developer building production web applications in Zimbabwe.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=elisharukovo&label=Profile%20Views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/elisharukovo)
@@ -26,6 +26,7 @@ Information Systems graduate building full-stack web applications and real-world
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 **Databases and Backend**
 
@@ -45,67 +46,71 @@ Information Systems graduate building full-stack web applications and real-world
 ## Projects
 
 ### Clout Connect
-**Full-stack SMM panel for the Zimbabwean market**
+**Social media marketing platform for Zimbabwe**
 
-[![Live](https://img.shields.io/badge/Live-cloutconnect.co.zw-emerald?style=flat&logo=vercel&logoColor=white)](https://cloutconnect.co.zw)
+[![Live](https://img.shields.io/badge/Live-cloutconnect.co.zw-3ECF8E?style=flat&logo=vercel&logoColor=white)](https://cloutconnect.co.zw)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-Automated social media marketing panel with multi-provider order routing, a live admin dashboard, wallet system with local Zimbabwean payment methods, reseller API access, and a full support ticket system. Built and deployed entirely from scratch.
-
-- Multi-provider SMM order routing (MTP and YoYo Media)
-- Wallet system with EcoCash, OneMoney, InnBucks, and bank transfer support
-- Tiered pricing engine with configurable markup rules
-- Reseller API with key management and auto-generated code examples
-- Real-time order sync without polling dependencies
-- Admin panel with analytics, ticket management, and communications tools
+Full-stack platform where customers order social media growth services for TikTok, Instagram, YouTube, and more. Includes a wallet system with local Zimbabwean payment methods, live order tracking, an API for programmatic access, a full support ticket system, and a comprehensive admin panel with analytics.
 
 ---
 
 ### 999 ElectrOnics
 **E-commerce platform for a Harare iPhone reseller**
 
-[![Live](https://img.shields.io/badge/Live-999--electr0nics.vercel.app-blue?style=flat&logo=vercel&logoColor=white)](https://999-electr0nics.vercel.app)
+[![Live](https://img.shields.io/badge/Live-999--electr0nics.vercel.app-0077B5?style=flat&logo=vercel&logoColor=white)](https://999-electr0nics.vercel.app)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-Full product catalogue, preloved listings, trade-in flow, and Paynow deposit checkout for a physical retail store in Harare CBD. Manages stock across iPhone 11 to iPhone 17 Pro Max.
+Live product catalogue for a physical store in Harare CBD. Covers iPhones from 11 to 17 Pro Max, preloved listings, trade-in submissions, condition grading, and Paynow deposit checkout. Built for a real client.
 
 ---
 
-### AI Smart Resume Analyzer
-**Recruitment tool with NLP-powered resume parsing**
+### Personal Portfolio
+**Multi-persona portfolio site**
+
+[![Live](https://img.shields.io/badge/Live-elisharukovo.vercel.app-orange?style=flat&logo=vercel&logoColor=white)](https://elisharukovo.vercel.app)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+Database-driven portfolio with separate sections for developer, artist, producer, and business work. Content managed entirely through an admin panel.
+
+---
+
+### SkillMatch
+**AI resume analyzer. Dissertation project.**
 
 [![Repo](https://img.shields.io/badge/GitHub-SkillMatch-181717?style=flat&logo=github)](https://github.com/elisharukovo/SkillMatch)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-Extracts and scores resume content against job requirements using spaCy NLP. Recruiter dashboard with match scoring, skill gap analysis, and candidate comparison.
+NLP-powered system that scores resumes against job requirements, identifies skill gaps, and recommends courses and resources. Built for recruiters to automate initial screening.
 
 ---
 
-### Stand Allocation System
-**Property bid and allocation platform**
+### EstatePro
+**Stand application and allocation system**
 
 [![Repo](https://img.shields.io/badge/GitHub-estatepro-181717?style=flat&logo=github)](https://github.com/elisharukovo/estatepro)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Automates stand allocation based on bid submissions. Admin dashboard for managing applications, approvals, and allocation status. Being expanded into a full real estate management platform.
+Manages stand applications and automatically allocates to the highest bidder after the deadline. Admin dashboard for monitoring bids and approvals. Expanding into a full real estate platform.
 
 ---
 
-### Disease Prediction System
-**Fuzzy logic symptom checker**
+### Vcare
+**Disease prediction prototype**
 
 [![Repo](https://img.shields.io/badge/GitHub-vcare-181717?style=flat&logo=github)](https://github.com/elisharukovo/vcare)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Predicts likely conditions from user-submitted symptoms using a fuzzy logic rule engine. Includes an admin panel for managing symptom rules and prediction thresholds.
+Symptom-based condition prediction using a fuzzy logic inference engine. Returns possible diagnoses with confidence levels from user-submitted symptoms.
 
 ---
 
@@ -114,7 +119,3 @@ Predicts likely conditions from user-submitted symptoms using a fuzzy logic rule
 ![Elisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisharukovo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elisharukovo&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=elisharukovo&theme=radical&hide_border=true)
-
----
-
-_Building technology that solves real problems in Zimbabwe and beyond._
