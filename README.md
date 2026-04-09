@@ -24,6 +24,7 @@ Full-stack developer building production web applications in Zimbabwe.
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
@@ -32,6 +33,7 @@ Full-stack developer building production web applications in Zimbabwe.
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Tools and Platforms**
@@ -54,6 +56,32 @@ Full-stack developer building production web applications in Zimbabwe.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 Full-stack platform where customers order social media growth services for TikTok, Instagram, YouTube, and more. Includes a wallet system with local Zimbabwean payment methods, live order tracking, an API for programmatic access, a full support ticket system, and a comprehensive admin panel with analytics.
+
+---
+
+### Heads Up Zimbabwe
+**Community-powered safety awareness platform**
+
+[![Live](https://img.shields.io/badge/Live-headsup.cloutconnect.co.zw-red?style=flat&logo=vercel&logoColor=white)](https://headsup.cloutconnect.co.zw)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white)
+
+Live incident map covering crime hotspots, scam zones, and dangerous roads across Zimbabwe. Community members report and confirm incidents. Includes a safe route planner, proximity alerts, heatmap mode, anonymous tip submission, and a confidence system that rates each incident from Unverified up to Verified.
+
+---
+
+### KYC System
+**Know Your Customer system for Microloan Foundation Zimbabwe**
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+
+2-step loan applicant verification system built for Microloan Foundation Zimbabwe. Applicants submit personal and financial details, verify via OTP, then upload an identity document. A mock verification engine scores submissions based on document completeness, age eligibility, and loan-to-income ratio. Includes a full admin dashboard and Swagger API docs.
 
 ---
 
