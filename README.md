@@ -99,7 +99,7 @@ Live product catalogue for a physical store in Harare CBD. Covers iPhones from 1
 ### Personal Portfolio
 **Multi-persona portfolio site**
 
-[![Live](https://img.shields.io/badge/Live-elisharukovo.vercel.app-orange?style=flat&logo=vercel&logoColor=white)](https://elisharukovo.cloutconnect.co.zw/)
+[![Live](https://img.shields.io/badge/Live-elisharukovo.cloutconnect.co.zw-orange?style=flat&logo=vercel&logoColor=white)](https://elisharukovo.cloutconnect.co.zw/)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
